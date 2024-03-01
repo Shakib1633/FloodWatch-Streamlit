@@ -1,0 +1,20 @@
+Feature,Description
+Sl,The serial number of data entry
+Station_Names,Contains the name of the station in Bangladesh for which the data is obtained.
+Year,Year of the data obtained.
+Month,Month of the data obtained.
+Max_Temp,Maximum recorded air temperature in that month. It is measured in Degree Celsius.
+Min_Temp,Minimum recorded air temperature in that month. It is measured in Degree Celsius.
+Rainfall,It is the total rainfall within that month. It is measured in cm.
+Relative_Humidity,"It is the average humidity of that month.It is measured in percentage, ranging from 0 to 100."
+Wind_Speed,"It is the average wind speed of that month, measured in meters per second."
+Cloud_Coverage,"It is the average cloud coverage within that month, measured in Okta."
+Bright_Sunshine,"It is the average daylight bright sunshine duration within that month, measured in Hours per day."
+Station_Number,Unique identification number to each station.
+X_COR,Spatial X Coordinate of the station.
+Y_COR,Spatial Y Coordinate of the station.
+LATITUDE,Geographical latitude of the station.
+LONGITUDE,Geographical longitude of the station.
+ALT,Geographical altitude of the station measured in metre.
+Period,"A combined year and month representation written as YYYY.MM. (eg, 1949.10)"
+Flood?,It has a value of either 1 or None which denotes the presence or absence of flood occurence.
